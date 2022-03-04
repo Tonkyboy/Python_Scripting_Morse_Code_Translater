@@ -1,6 +1,6 @@
 # This is my first Portfolio Project
 
-# Python commandline scriptinh
+# Python commandline scripting
 
 
 
@@ -10,6 +10,7 @@ https://user-images.githubusercontent.com/68352880/156735527-e14dd678-5491-4a46-
 
 
 # Here a short video about backward translation morse code to word
+Supported are 2 and 3 spaces as break between words
 https://user-images.githubusercontent.com/68352880/156735545-42b4f4de-71f0-41ad-b7d5-83845d353c5a.mov
 
 
