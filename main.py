@@ -33,6 +33,7 @@ def word_to_morsecode():
 def morsecode_to_word():
     """Transforms the morsecode in uppercase words with the original spaces"""
     input_morse_code = input("Insert your morse code  for translation into words here: ").upper().replace("   ",
+                                                                                                        " / ").replace("  ",
                                                                                                         " / ").split(
         " ")
     splitted_letters = []
